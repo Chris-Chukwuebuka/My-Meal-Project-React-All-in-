@@ -8,7 +8,7 @@ const Header = () => {
     <div>
       <Navbar expand="lg" className="bg-body-tertiary">
         <Container>
-          <Navbar.Brand className="text-decoration-none text-primary fs-3 fw-bold">THE MEALDB PRATICAL</Navbar.Brand>
+          <Navbar.Brand className="text-decoration-none text-primary fs-3 fw-bold">THE MEAL DB</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ms-auto">

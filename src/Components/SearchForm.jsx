@@ -14,7 +14,7 @@ const SearchForm = () => {
       <div className='my-2'>
           <form onSubmit={handleSubmit} className='w-100 w-md-50 mx'>
               <label htmlFor="name" className='form-label text-primary fw-bold fs-4 text-center'>Search for your favourite Meal</label>
-              <input type="text"className='form-control'id='name'ref={inputContainer}  onChange={searchMeal}/>
+              <input type="text"className='form-control 'id='name'ref={inputContainer}  onChange={searchMeal}/>
           </form>
     </div>
   )
