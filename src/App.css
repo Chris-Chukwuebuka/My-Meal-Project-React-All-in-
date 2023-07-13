@@ -1,0 +1,10 @@
+.about-section{
+    height: 70vh;
+}
+.banner{
+    background-image: url("./assets/premium_photo-1663852297801-d277b7af6594.avif");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    border-radius: 20px;
+}
